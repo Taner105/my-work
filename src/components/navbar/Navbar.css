@@ -1,0 +1,29 @@
+.navbar {
+    background-color: lawngreen;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+
+    
+}
+.navbar a{
+    padding: 25px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#emp:hover{
+    background-color: tomato;
+     border-radius: 5px;
+}
+#abt:hover {
+    background-color: tomato;
+     border-radius: 5px;
+}
+#con:hover {
+    background-color: tomato;
+    border-radius: 5px;
+   
+}
